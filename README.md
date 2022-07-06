@@ -3,7 +3,6 @@
 
 * 🌐 Full-Stack Developer
 --------------------
-
 * 🌍  Vivo en Buenos Aires, Argentina.
  
 Actualmente, mis conocimientos me permiten desarrollar y trabajar en las siguientes tecnologías.
@@ -14,7 +13,9 @@ Actualmente, mis conocimientos me permiten desarrollar y trabajar en las siguien
 👨🏻‍💻 Dispuesto a aprender nuevas tecnologías, frameworks y metodologías de trabajo. Flexible y autodidacta, sabiendo que una de las habilidades más importantes es la capacidad de tener una gran y efectiva comunicación.
 
 👇 Para cualquier interés, inquietud o comentario no dudes en contactarme 👇
+--------------------
 ✉️ marianoo.14.md@gmail.com
+--------------------
 📂 https://github.com/Elevattd
 
 ### Skills
