@@ -1,11 +1,21 @@
-Hi 👋 My name is Mariano Dunand
+🙋🏻‍♂️ ¡Hola a todos! 👋 Soy Mariano Dunand
 ===============================
 
-Full-Stack Developer
+* 🌐 Full-Stack Developer
 --------------------
 
-* 🌍  I'm based in Buenos Aires, Argentina.
-* ✉️  You can contact me at [marianoo.14.md@gmail.com](mailto:marianoo.14.md@gmail.com)
+* 🌍  Vivo en Buenos Aires, Argentina.
+ 
+Actualmente, mis conocimientos me permiten desarrollar y trabajar en las siguientes tecnologías.
+- HTML y CSS, JavaScript, React, Redux, Node.js, Express, PostgreSQL, Sequelize.
+
+🔎 Busco un trabajo donde pueda desarrollar habilidades blandas y duras. Estoy interesado en puestos relacionados con el desarrollo Front-End y/o Back-End. Como siempre daré lo mejor de mí para que todos ganemos.
+
+👨🏻‍💻 Dispuesto a aprender nuevas tecnologías, frameworks y metodologías de trabajo. Flexible y autodidacta, sabiendo que una de las habilidades más importantes es la capacidad de tener una gran y efectiva comunicación.
+
+👇 Para cualquier interés, inquietud o comentario no dudes en contactarme 👇
+✉️ marianoo.14.md@gmail.com
+📂 https://github.com/Elevattd
 
 ### Skills
 
