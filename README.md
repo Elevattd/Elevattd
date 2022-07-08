@@ -14,9 +14,10 @@ Actualmente, mis conocimientos me permiten desarrollar y trabajar en las siguien
 
 👇 Para cualquier interés, inquietud o comentario no dudes en contactarme 👇
 --------------------
-✉️ marianoo.14.md@gmail.com
+💼 <a href="https://mariano-dunand.vercel.app/" target="_blank"> Portfolio</a> 
 --------------------
-📂 https://github.com/Elevattd
+✉️ <a>marianoo.14.md@gmail.com</a>
+
 
 ### Skills
 
