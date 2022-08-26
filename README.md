@@ -8,8 +8,6 @@
 Actualmente, mis conocimientos me permiten desarrollar y trabajar en las siguientes tecnologías.
 - HTML y CSS, JavaScript, React, Redux, Node.js, Express, PostgreSQL, Sequelize.
 
-🔎 Busco un trabajo donde pueda desarrollar habilidades blandas y duras. Estoy interesado en puestos relacionados con el desarrollo Front-End y/o Back-End. Como siempre daré lo mejor de mí para que todos ganemos.
-
 👨🏻‍💻 Dispuesto a aprender nuevas tecnologías, frameworks y metodologías de trabajo. Flexible y autodidacta, sabiendo que una de las habilidades más importantes es la capacidad de tener una gran y efectiva comunicación.
 
 👇 Para cualquier interés, inquietud o comentario no dudes en contactarme 👇
